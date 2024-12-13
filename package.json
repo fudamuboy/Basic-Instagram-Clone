@@ -15,7 +15,8 @@
     "react-native": "0.76.5"
   },
   "devDependencies": {
-    "@babel/core": "^7.20.0"
+    "@babel/core": "^7.20.0",
+    "@faker-js/faker": "^9.3.0"
   },
   "private": true
 }
